@@ -46,13 +46,13 @@ This repository automatically generates M3U playlist files for various free ad-s
 
 ## ▶️ How to Use
 
-The generated M3U files are located in the [`playlists/`](https://github.com/BuddyChewChew/app-m3u-generator/tree/main/playlists) directory.
+The generated M3U files are located in the [`playlists/`](https://github.com/toffbrawny/app-m3u-generator/tree/main/playlists) directory.
 
 **Direct URL Format:**
-`https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/FILENAME.m3u`
+`https://raw.githubusercontent.com/toffbrawny/app-m3u-generator/main/playlists/FILENAME.m3u`
 
 *Example for Plex US:*
-`https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/plex_us.m3u`
+`https://raw.githubusercontent.com/toffbrawny/app-m3u-generator/main/playlists/plex_us.m3u`
 
 **To get the URL manually:**
 1. Navigate to the `playlists/` folder.
